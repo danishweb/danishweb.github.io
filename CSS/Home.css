@@ -1,0 +1,104 @@
+
+
+html {
+  scroll-behavior: smooth;
+	/* height: 100%;
+	/* max-height: 600px; */
+	/* width: auto;
+	background-color: hsla(200,40%,30%,.4);
+	background-image:		
+		url('https://78.media.tumblr.com/cae86e76225a25b17332dfc9cf8b1121/tumblr_p7n8kqHMuD1uy4lhuo1_540.png'), 
+		url('https://78.media.tumblr.com/66445d34fe560351d474af69ef3f2fb0/tumblr_p7n908E1Jb1uy4lhuo1_1280.png'),
+		url('https://78.media.tumblr.com/8cd0a12b7d9d5ba2c7d26f42c25de99f/tumblr_p7n8kqHMuD1uy4lhuo2_1280.png'),
+		url('https://78.media.tumblr.com/5ecb41b654f4e8878f59445b948ede50/tumblr_p7n8on19cV1uy4lhuo1_1280.png'),
+		url('https://78.media.tumblr.com/28bd9a2522fbf8981d680317ccbf4282/tumblr_p7n8kqHMuD1uy4lhuo3_1280.png'); */
+	/* background-repeat: repeat-x;
+	background-position: 
+		0 20%,
+		0 100%,
+		0 50%,
+		0 100%,
+		0 0;
+	background-size: 
+		2500px,
+		800px,
+		500px 200px,
+		1000px,
+		400px 260px;
+	animation: 50s para infinite linear; */
+	/* } */
+
+/* @keyframes para {
+	100% {
+		background-position: 
+			-5000px 20%,
+			-800px 95%,
+			500px 50%,
+			1000px 100%,
+			400px 0; */
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: rgba(128, 202, 94, 0.452);
+
+}
+
+strong {
+  font-size: 31px;
+}
+
+.navbar-expand-lg .navbar-collapse {
+  flex-direction: row-reverse;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-right: 3.5rem;
+}
+
+.bg-light {
+  background-color: #00ff223d !important;
+}
+
+.home-things {
+  display: block;
+  padding-top: 30px;
+
+}
+
+.home-text {
+  word-wrap: normal;
+  padding: 20px 10px;
+  margin: 23px 49px;
+  text-align: center;
+  background: transparent black;
+}
+.home_heading {
+  margin: 10px 15px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.home-image {
+  box-sizing: border-box;
+  display: inline-block;
+}
+
+.home-all {
+  height: 600px;
+  position: relative;
+}
+.homeaboutgap{
+  padding-bottom: 430px;
+}
+.about-sec {
+  padding-bottom: 885px;
+}
+
+#aboutsec {
+  margin-bottom: 70px;
+}
+
+.btn{
+  padding: 0.5rem 2.4rem;
+}
